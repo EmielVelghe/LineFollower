@@ -11,7 +11,7 @@
 | 6 | 1x 18650 Battery Holder - Leaf Spring Contacts-Wires per Cell | Batterij houder | nieuw | €1.50 | 2 | €3.00 |
 | 7 | Experiment PCB 9cm*15cm-Double Sided | PCB | nieuw | €2.50 | 1 | €2.50 |
 | 8 | LEDs | LEDs | recup | €0.00 | 2 | €0.00 |
-| 9 | Drukknop | Drukknop | €0.00 | 1 | €0.00 |
+| 9 | Drukknop | Drukknop | recup | €0.00 | 1 | €0.00 |
 | 10 | | Wielen | | | |
 | 11 | | Sensoren | | | |
 
